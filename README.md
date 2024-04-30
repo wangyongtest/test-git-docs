@@ -26,3 +26,6 @@
 ![result](./images/result-2.png)
 
 ## 合并分支 prd 到 master
+### 合并分支要注意：当前所在分支为目标分支(也就是master)
+![before-merge](./images/before-merge.png)
+![after-merge](./images/after-merge.png)
