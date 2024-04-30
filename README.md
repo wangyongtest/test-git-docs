@@ -29,3 +29,6 @@
 ### 合并分支要注意：当前所在分支为目标分支(也就是master)
 ![before-merge](./images/before-merge.png)
 ![after-merge](./images/after-merge.png)
+
+### 总结：合并代码一定要切换到要合并的分支（目标分支：也就是最重要合并到的分支。例如：prd->master：一定要切换到 master ,执行 git merge prd， 是否有冲突，解决完冲突后，push到远程）
+![最终提交的流程图](./images/整体提交流程.png)
