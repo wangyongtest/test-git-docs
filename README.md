@@ -18,3 +18,11 @@
 ## 使用 vscode 合并代码
 
 ### 创建代码分支 dev
+#### 在仓库上创建分支
+![create-batch-dev](./images/create-batch-dev.png)
+#### 使用命令创建
+![git-batch-prd](./images/create-batch-prd.png)
+#### 切换到 prd 分支
+![checkout-batch-prd](./images/checkout-batch-prd.png)
+#### 推送 prd 分支到 远程仓库
+
