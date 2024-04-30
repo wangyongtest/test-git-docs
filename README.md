@@ -24,3 +24,5 @@
 ![git-push-origin-prd](./images/push-origin-prd.png)
 #### 远程仓库现在已经有了 prd 分支
 ![result](./images/result-2.png)
+
+## 合并分支 prd 到 master
