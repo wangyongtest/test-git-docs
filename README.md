@@ -18,3 +18,9 @@
 ## 使用 vscode 合并代码
 
 ### 创建代码分支 dev
+
+
+#### 推送创建新分支到远程仓库
+![git-push-origin-prd](./images/push-origin-prd.png)
+#### 远程仓库现在已经有了 prd 分支
+![result](./images/result-2.png)
